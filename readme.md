@@ -64,7 +64,7 @@ Copy code
 ### 1️⃣ Clone the Repository
 
 
-git clone https://github.com/kg0420/Eyes-Disease-Identifier-AI
+git clone https://github.com/kg0420/Eyes-Disease-Detection
 cd eye-disease-detection
 2️⃣ Create Virtual Environment (Optional but Recommended)
 bash
@@ -151,6 +151,7 @@ If you like this project, please ⭐ star the repository and share it!
 
 ❓ Need Help?
 Feel free to contact me or open an issue!
+
 
 
 
